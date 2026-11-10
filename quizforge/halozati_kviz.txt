@@ -1,0 +1,63 @@
+QUIZ: Számítógépes Hálózatok Kvíz
+CATEGORY: Hálózatok
+AUTHOR: QuizForge
+
+# 1. Kérdés
+TYPE: MULTIPLE_CHOICE | POINTS: 10 | QUESTION: Mi az OSI modell 1. (legalsó) rétegének neve? | OPTIONS: Fizikai réteg, Adatkapcsolati réteg, Hálózati réteg, Szállítási réteg | ANSWER: A
+
+# 2. Kérdés
+TYPE: MULTIPLE_CHOICE | POINTS: 10 | QUESTION: Hány bit hosszúságú egy standard IPv4 cím? | OPTIONS: 16 bit, 32 bit, 64 bit, 128 bit | ANSWER: B
+
+# 3. Kérdés
+TYPE: MULTIPLE_CHOICE | POINTS: 10 | QUESTION: Mi a DNS (Domain Name System) fő feladata? | OPTIONS: Fájlok titkosítása, Érvényes IP-címek kiosztása, Tartománynevek IP-címre fordítása, Weboldalak megjelenítése | ANSWER: C
+
+# 4. Kérdés
+TYPE: TRUE_FALSE | POINTS: 10 | QUESTION: A TCP (Transmission Control Protocol) egy megbízható, kapcsolat-orientált szállítási protokoll. | ANSWER: Igaz
+
+# 5. Kérdés
+TYPE: MULTIPLE_CHOICE | POINTS: 10 | QUESTION: Melyik portot használja alapértelmezetten a biztonságos HTTPS protokoll? | OPTIONS: 80, 21, 443, 22 | ANSWER: C
+
+# 6. Kérdés
+TYPE: MULTIPLE_CHOICE | POINTS: 10 | QUESTION: Melyik hálózati eszköz működik az OSI modell 2. (Adatkapcsolati) rétegében és használ MAC-cím táblázatot? | OPTIONS: Router, Switch, Repeater, Hub | ANSWER: B
+
+# 7. Kérdés
+TYPE: TRUE_FALSE | POINTS: 10 | QUESTION: Az UDP protokoll háromlépéses kézfogást (3-way handshake) használ a kapcsolat kiépítéséhez. | ANSWER: Hamis
+
+# 8. Kérdés
+TYPE: MULTIPLE_CHOICE | POINTS: 10 | QUESTION: Mi a DHCP (Dynamic Host Configuration Protocol) elsődleges feladata? | OPTIONS: Hálózati forgalom szűrése, IP-címek automatikus kiosztása a klienseknek, E-mailek továbbítása, Adatcsomagok útvonalválasztása | ANSWER: B
+
+# 9. Kérdés
+TYPE: MULTIPLE_CHOICE | POINTS: 10 | QUESTION: Milyen típusú IP-cím a 192.168.1.15? | OPTIONS: Publikus IPv4 cím, Privát (Magán) IPv4 cím, Loopback cím, Multicast cím | ANSWER: B
+
+# 10. Kérdés
+TYPE: TEXT | POINTS: 10 | QUESTION: Melyik parancssori eszközzel tesztelhetjük egy távoli hálózati eszköz elérhetőségét ICMP csomagokkal? | ANSWER: ping
+
+# 11. Kérdés
+TYPE: MULTIPLE_CHOICE | POINTS: 10 | QUESTION: Az OSI modell melyik rétegében működik az IP (Internet Protocol)? | OPTIONS: 2. Adatkapcsolati réteg, 3. Hálózati réteg, 4. Szállítási réteg, 7. Alkalmazási réteg | ANSWER: B
+
+# 12. Kérdés
+TYPE: TRUE_FALSE | POINTS: 10 | QUESTION: A MAC-cím egy 48 bites fizikai azonosító, amelyet a hálózati kártya gyártója éget be az eszközbe. | ANSWER: Igaz
+
+# 13. Kérdés
+TYPE: MULTIPLE_CHOICE | POINTS: 10 | QUESTION: Mi a subnet mask (alhálozati maszk) szerepe az IP hálózatokban? | OPTIONS: Megadja a hálózat maximális sebességét, Elválasztja az IP-cím hálózati és azonosító (host) részét, Titkosítja a hálózati csomagokat, Megakadályozza a vírusok terjedését | ANSWER: B
+
+# 14. Kérdés
+TYPE: MULTIPLE_CHOICE | POINTS: 10 | QUESTION: Melyik protokoll felelős a MAC-címek és IP-címek összerendeléséért a helyi hálózaton? | OPTIONS: ARP, ICMP, SNMP, FTP | ANSWER: A
+
+# 15. Kérdés
+TYPE: TEXT | POINTS: 10 | QUESTION: Hány rétegből áll a klasszikus OSI (Open Systems Interconnection) referencia modell? | ANSWER: 7
+
+# 16. Kérdés
+TYPE: TRUE_FALSE | POINTS: 10 | QUESTION: Az FTP (File Transfer Protocol) alapértelmezetten a 21-es portot használja a vezérlőkapcsolat létrehozásához. | ANSWER: Igaz
+
+# 17. Kérdés
+TYPE: MULTIPLE_CHOICE | POINTS: 10 | QUESTION: Melyik hálózati topológiában van egy központi eszköz (pl. switch), amelyhez az összes többi csomópont önállóan csatlakozik? | OPTIONS: Busz topológia, Gyűrű topológia, Csillag topológia, Háló topológia | ANSWER: C
+
+# 18. Kérdés
+TYPE: MULTIPLE_CHOICE | POINTS: 10 | QUESTION: Mi a broadcast cím szerepe egy alhálózatban? | OPTIONS: Kizárólag a routernek küld üzenetet, A hálózat összes eszközének küld egyszerre üzenetet, Titkosított csatornát nyit a szerver felé, Egyetlen kiválasztott gépnek küld adatot | ANSWER: B
+
+# 19. Kérdés
+TYPE: TRUE_FALSE | POINTS: 10 | QUESTION: A NAT (Network Address Translation) lehetővé teszi, hogy több privát IP-címmel rendelkező gép osztozzon egyetlen publikus IP-címen. | ANSWER: Igaz
+
+# 20. Kérdés
+TYPE: TEXT | POINTS: 10 | QUESTION: Melyik 3-betűs rövidítésű protokoll felelős az órák és az idő szinkronizálásáért a hálózati eszközök között? | ANSWER: NTP
