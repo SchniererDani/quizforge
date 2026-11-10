@@ -1,0 +1,12 @@
+QUIZ: Technologia es Programozas Kviz
+CATEGORY: Szamitastechnika
+AUTHOR: QuizForge Admin
+
+# Feleletvalasztos kerdes (A=1991, B=1995, C=1996, D=2000 -> Valasz: C)
+TYPE: MULTIPLE_CHOICE | POINTS: 10 | QUESTION: Melyik evben jelent meg a Java 1.0-s verzioja? | OPTIONS: 1991, 1995, 1996, 2000 | ANSWER: C
+
+# Igaz/Hamis kerdes
+TYPE: TRUE_FALSE | POINTS: 10 | QUESTION: Az OOP-ban a polimorfizmus futasideju metódus-felulbiralast tesz lehetőve. | ANSWER: Igaz
+
+# Szoveges valaszú kerdes
+TYPE: TEXT | POINTS: 15 | QUESTION: Melyik tervezesi mintat hasznaljuk a QuizForge szoftverben a pontozasi szabalyok dinamikus valtasara? | ANSWER: Strategy
